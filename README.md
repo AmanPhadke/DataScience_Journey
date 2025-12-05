@@ -11,8 +11,8 @@
 ## 📊 Progress Tracker
 
 ### Phase 1: The Data Scientist's Toolkit (Oct 2025 - Jan 2026)
-- [ ] Week 1-2: NumPy Mastery (100 exercises)
-- [ ] Week 3-4: Pandas Deep Dive
+- ✅ Week 1-2: NumPy Mastery (100 exercises)
+- ✅ Week 3-4: Pandas Deep Dive
 - [ ] Week 5-8: Math & Visualization
 - [ ] Week 9-12: Capstone Project
 
