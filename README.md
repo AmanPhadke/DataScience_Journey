@@ -1,19 +1,9 @@
-# 🚀 My Data Science Journey
-
-**Goal:** Master Data Science & Computer Vision to secure admission to a top German Master's program.
-
-**Timeline:** October 2025 - December 2026  
-**Current Phase:** Phase 1 - Foundations  
-**Target Universities:** TUM, RWTH Aachen, Heidelberg, Karlsruhe
-
----
-
 ## 📊 Progress Tracker
 
 ### Phase 1: The Data Scientist's Toolkit (Oct 2025 - Jan 2026)
 - ✅ Week 1-2: NumPy Mastery (100 exercises)
 - ✅ Week 3-4: Pandas Deep Dive
-- [ ] Week 5-8: Math & Visualization
+- ✅ Week 5-8: Math & Visualization
 - [ ] Week 9-12: Capstone Project
 
 ### Phase 2: Core Machine Learning (Feb 2026 - May 2026)
