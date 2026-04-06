@@ -4,7 +4,7 @@
 - ✅ Week 1-2: NumPy Mastery (100 exercises)
 - ✅ Week 3-4: Pandas Deep Dive
 - ✅ Week 5-8: Math & Visualization
-- [ ] Week 9-12: Capstone Project
+- ✅ Week 9-12: Capstone Project
 
 ### Phase 2: Core Machine Learning (Feb 2026 - May 2026)
 - [ ] Stanford CS229 completion
